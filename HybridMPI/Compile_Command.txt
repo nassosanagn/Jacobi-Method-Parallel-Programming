@@ -1,0 +1,1 @@
+mpicc -O3 -g HybridMPI.c -L/opt/mpiP-3.5/lib -lmpiP -lbfd -lunwind -o HybridMPI.x -lm -fopenmp

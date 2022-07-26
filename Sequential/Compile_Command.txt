@@ -1,0 +1,1 @@
+mpicc -O3 Sequential.c -o Sequential.x -lm

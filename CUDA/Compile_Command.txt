@@ -1,0 +1,3 @@
+Για την μεταγλώττιση με 1 GPU:	nvcc Cuda_1GPU.cu -o Cuda_1GPU -lm
+
+Για την μεταγλώττιση με 2 GPU:	nvcc Cuda_2GPU.cu -o Cuda_2GPU -lm
